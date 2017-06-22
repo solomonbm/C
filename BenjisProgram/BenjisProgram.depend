@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1484600608 source:c:\myprojects\c\benjisprogram\main.c
+	<stdio.h>
+	<stdlib.h>
+	"BenjisFunctions.h"
+
+1484600663 c:\myprojects\c\benjisprogram\benjisfunctions.h
+	<stdio.h>
+	<stdbool.h>
+

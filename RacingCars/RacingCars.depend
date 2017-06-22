@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1484687001 source:c:\myprojects\c\racingcars\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
